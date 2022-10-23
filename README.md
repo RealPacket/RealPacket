@@ -4,7 +4,7 @@
 <h1 align="center">Hello, I am betapacketdlldink.nodllforyou#5608</h1>
 <a href="https://github.com/RealPacket">
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=zajchu1337" alt="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=RealPacket" alt="Profile Views">
   </p>
 </a>
 
