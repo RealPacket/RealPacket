@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @RealPacket
 - 👀 I’m interested in LuaU/RLua Scripts, 
-- 🌱 I’m currently learning Lua (started like 1 wk ago)
+- 🌱 I’m currently learning Lua (started like 5 weeks ago)
