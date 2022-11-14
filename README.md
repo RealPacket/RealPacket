@@ -1,7 +1,7 @@
 <!--Skidded from zaju loll-->
 ![welcome-bg-2](https://user-images.githubusercontent.com/50290580/124369381-11ed1800-dc74-11eb-90a9-2ff2073c3b97.jpg)
 
-<h1 align="center">Hello, I am betapacketdlldink.nodllforyou#5608</h1>
+<h1 align="center">Hello, I am RealPacket</h1>
 <a href="https://github.com/RealPacket">
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=RealPacket" alt="Profile Views">
@@ -13,3 +13,10 @@
 </p>
 
 ![footer-bg](https://user-images.githubusercontent.com/50290580/124369382-144f7200-dc74-11eb-807a-f10a7a502dd9.jpg)
+## Skills
+
+[![My Skills](https://skillicons.dev/icons?i=java,bash,discord,bots,lua,py&perline=7)](https://skillicons.dev)
+---
+![My github activity graph](https://activity-graph.herokuapp.com/graph?username=RealPacket&theme=react-dark)
+# Socials
+[![](https://skillicons.dev/icons?i=discord&perline=7)](https://discord.com/users/773207810120089600)
