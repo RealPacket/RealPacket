@@ -17,6 +17,5 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,bash,discord,bots,lua,py&perline=7)](https://skillicons.dev)
 ---
-![My github activity graph](https://activity-graph.herokuapp.com/graph?username=RealPacket&theme=react-dark)
 # Socials
 [![](https://skillicons.dev/icons?i=discord&perline=7)](https://discord.com/users/773207810120089600)
