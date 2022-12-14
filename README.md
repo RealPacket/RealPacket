@@ -1,6 +1,5 @@
 <!--Skidded from zaju loll-->
 ![welcome-bg-2](https://user-images.githubusercontent.com/50290580/124369381-11ed1800-dc74-11eb-90a9-2ff2073c3b97.jpg)
-![Friend Req](discord.gg/rg6Eh3uc)
 <h1 align="center">Hello, I am RealPacket</h1>
 <a href="https://github.com/RealPacket">
   <p align="center">
@@ -17,7 +16,9 @@
 [![My Skills](https://skillicons.dev/icons?i=java,bash,discord,lua,py&perline=7)](https://skillicons.dev)<br>
 ---
 # Socials
-[![Discord](https://skillicons.dev/icons?i=discord&perline=7)](https://discord.com/users/773207810120089600)
+[![Discord](https://skillicons.dev/icons?i=discord&perline=7)](https://discord.com/users/773207810120089600)<br>
+![Discord Profile](https://discord.c99.nl/widget/theme-2/773207810120089600.png)
+
 ---
 ## Other things
 ![trophy](https://github-profile-trophy.vercel.app/?username=RealPacket&theme=gruvbox)<br>
