@@ -14,8 +14,10 @@
 
 ![footer-bg](https://user-images.githubusercontent.com/50290580/124369382-144f7200-dc74-11eb-807a-f10a7a502dd9.jpg)
 ## Skills
-
-[![My Skills](https://skillicons.dev/icons?i=java,bash,discord,bots,lua,py&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,bash,discord,lua,py&perline=7)](https://skillicons.dev)<br>
+![trophy](https://github-profile-trophy.vercel.app/?username=RealPacket&theme=gruvbox)<br>
+![stats](https://github-readme-stats.vercel.app/api?username=RealPacket&show_icons=true&theme=radical) <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealPacket&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)<br>
 ---
 # Socials
 [![](https://skillicons.dev/icons?i=discord&perline=7)](https://discord.com/users/773207810120089600)
