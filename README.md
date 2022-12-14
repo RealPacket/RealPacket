@@ -1,6 +1,6 @@
 <!--Skidded from zaju loll-->
 ![welcome-bg-2](https://user-images.githubusercontent.com/50290580/124369381-11ed1800-dc74-11eb-90a9-2ff2073c3b97.jpg)
-
+<p href="discord.gg/rg6Eh3uc" align="center">
 <h1 align="center">Hello, I am RealPacket</h1>
 <a href="https://github.com/RealPacket">
   <p align="center">
