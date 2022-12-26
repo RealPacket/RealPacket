@@ -17,7 +17,7 @@
 ---
 # Socials
 [![Discord](https://skillicons.dev/icons?i=discord&perline=7)](https://discord.com/users/773207810120089600)<br>
-![Discord Profile](https://discord.c99.nl/widget/theme-2/773207810120089600.png)
+![Discord Profile](https://discord.c99.nl/widget/theme-3/773207810120089600.png)
 
 ---
 ## Other things
