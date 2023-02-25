@@ -1,12 +1,11 @@
 <!--Skidded from zaju loll-->
 ![welcome-bg-2](https://user-images.githubusercontent.com/50290580/124369381-11ed1800-dc74-11eb-90a9-2ff2073c3b97.jpg)
-<h1 align="center">Hello, I am RealPacket </h1>
+<h1 align="center">Hello, I am <a href="https://github.com/RealPacket">RealPacket</h1>
 <a href="https://github.com/RealPacket">
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=RealPacket" alt="Profile Views">
   </p>
 </a>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RealPacket&show_icons=true&theme=radical" />
 </p>
