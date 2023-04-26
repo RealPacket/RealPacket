@@ -4,7 +4,7 @@
 
 ## Skills
 - Languages
-- ![My Skills (Languages)](https://skillicons.dev/icons?i=java,lua,py,ts,javascript,html,selenium,markdown,cs,cpp,css,dotnet,regex,sqlite,nodejs&perline=7 "These are my current skills.")
+  - ![My Skills (Languages)](https://skillicons.dev/icons?i=java,lua,py,ts,javascript,html,selenium,markdown,cs,cpp,css,dotnet,regex,sqlite,nodejs&perline=7 "These are my current skills.")
 
 Programs:
   - IDEs
