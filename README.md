@@ -39,7 +39,7 @@ Programs:
   - Also, for more-related roblox things, thinking of making a "decompiler" (e.x. gives you a representation of the TypeScript version of the compiled Roblox-TS lua/u code that you get)
 
 - C++
-  - Not used that much, may create a Roblox Username scanner in C++ with ImGUI if I can make a library to make requests as simple as the Python requests library.
+  - Not used that much, may create a Roblox Username scanner in C++ with ImGUI.
 
 - Discord
   - Bots
