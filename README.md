@@ -36,7 +36,7 @@ Programs:
 
 - TypeScript
   - WAY better than JavaScript.
-  - Also, for more-related roblox things, thinking of making a "decompiler" (e.x. gives you a representation of the TypeScript version of the compiled Roblox-TS lua/u code that you get)
+  - ~~Also, for more-related roblox things, thinking of making a "decompiler" (e.x. gives you a representation of the TypeScript version of the compiled Roblox-TS lua/u code that you get)~~ I don't think I even thought of starting trying to do that
 
 - C++
   - Not used that much, may create a Roblox Username scanner in C++ with ImGUI.
@@ -49,7 +49,6 @@ Programs:
   - best memory hog (I use the web version sometimes because of this)
 - SQLite
   - Used where I need to store stuff, not really in the way you expect.
-  -
 
 ## Socials
 
