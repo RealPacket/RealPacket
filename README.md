@@ -1,5 +1,5 @@
 <!-- MDL-compliant now. -->
-#  
+# Stats
 
 ![stats](https://github-readme-stats.vercel.app/api?username=RealPacket&show_icons=true&theme=radical)
 
@@ -23,11 +23,8 @@ Programs:
   - Trash.
 
 - Node.js
-  - `node_modules`; trash
+  - `node_modules`; it took up all of my disk space!
   - can code in
-  - No TS/TypeScript support OOTB (out of the box), balls
-  - first thing to do when you need to code in it:
-    - use deno instead
 
 - JavaScript
   - now that I can use TypeScript, balls
