@@ -16,37 +16,6 @@ Programs:
 - Misc/Other programs (just social shit atm):
   - ![My Skills (Languages)](https://skillicons.dev/icons?i=discord&perline=7 "These are programs that I use.")
 
-(NOTES):
-
-- Java
-  - Barely used.
-  - Trash.
-
-- Node.js
-  - `node_modules`; it took up all of my disk space!
-  - can code in
-
-- JavaScript
-  - now that I can use TypeScript, balls
-  - will only use if I can't use typescript natively or compile it to javascript. (e.x. neither the `tsc` command works and `typescriptlang.org/playground` doesn't give me the compiled typescript.
-  - Ranking: [Object[] Object[]]
-
-- TypeScript
-  - WAY better than JavaScript.
-  - ~~Also, for more-related roblox things, thinking of making a "decompiler" (e.x. gives you a representation of the TypeScript version of the compiled Roblox-TS lua/u code that you get)~~ I don't think I even thought of starting trying to do that
-
-- C++
-  - Not used that much, may create a Roblox Username scanner in C++ with ImGUI.
-
-- Discord
-  - Bots
-    - Never codes them, *may change at any time*.
-  - I use it to talk trash.
-  - electron app 💀💀💀
-  - best memory hog (I use the web version sometimes because of this)
-- SQLite
-  - Used where I need to store stuff, not really in the way you expect.
-
 ## Socials
 
 [![Discord](https://skillicons.dev/icons?i=discord&perline=7)](https://discord.com/users/773207810120089600)
