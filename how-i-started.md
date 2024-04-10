@@ -17,7 +17,8 @@ I gave up for a while.
 
 ## When did I start doing X?
 
-Scripting:
+## Scripting
+
 kinda hard to remember,
 but I can get a solid answer by looking at a folder that I still have on my computer to this day!
 My folder in "Documents/Roblox Scripts",
@@ -26,11 +27,16 @@ Here's the image if you want it:
 
 !["Roblox Scripts Properties" window](./Roblox%20Scripts%20Properties.png)
 
-Exploiting (on Roblox):
-also hard to remember.
-Hacking (on Minecraft):
-I can get a solid answer by looking at my folder that I still have on my computer to this day,
-my folder on the desktop called "Packet V2" (because I was using Packet V2 at the time). I created it on Tuesday, July 12, 2022, at 1:56:05 PM
+## Exploiting (on Roblox)
+
+I think at least ~2021 or 2022,
+when I was exploiting on prison life
+with JJSploit (lol)
+
+## Hacking (on Minecraft)
+
+My folder on the desktop called "Packet V2" (because I was using Packet V2 at the time). I created it on Tuesday, July 12, 2022,
+at 1:56:05 PM
 
 image:
 !["Packet V2 Properties" window](Packet%20V2%20Properties.png)

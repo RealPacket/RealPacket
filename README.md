@@ -6,8 +6,7 @@
 > **I dualboot on my main PC,**
 > **planning to move to Linux at some point**
 
-<!-- not released yet -->
-<!-- More info about how I started is [here](./how-i-started.md) -->
+More info about how I started is [here](./how-i-started.md)
 
 ## Stats
 
@@ -20,7 +19,7 @@
 
 > [!IMPORTANT]
 > I hate windows
-_
+** **
 > [!NOTE]
 > some
 > of the languages
