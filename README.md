@@ -1,5 +1,7 @@
 # RealPacket
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&duration=1337&pause=1000&center=true&vCenter=true&random=false&width=900&height=50&lines=Random+online+developer+%239e9;Runs%3A+Fedora+39+(dual+booted+with+W10);Watches+cat+videos;Goes+outside;Rants+at+code;Contributes+to+whatever+he+wants+to)](https://git.io/typing-svg)
+
 > [!NOTE]
 > Now using Fedora 40 on a HP Spectre and my main PC!
 >
