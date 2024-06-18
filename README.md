@@ -56,3 +56,5 @@ Programs:
 ![trophies](https://github-profile-trophy.vercel.app/?username=RealPacket&theme=gruvbox "These are all of my trophies.")
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealPacket&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+<img src="https://raw.githubusercontent.com/RealPacket/RealPacket/output/snake.svg" alt="Snake animation" />
