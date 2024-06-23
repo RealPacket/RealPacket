@@ -1,6 +1,7 @@
 # RealPacket
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&duration=1337&pause=1000&center=true&vCenter=true&random=false&width=900&height=50&lines=Random+online+developer+%239e9;Runs%3A+Fedora+39+(dual+booted+with+W10);Watches+cat+videos;Goes+outside;Rants+at+code;Contributes+to+whatever+he+wants+to)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&duration=1337&pause=1000&center=true&vCenter=true&random=false&width=900&height=50&lines=Random+online+developer+%239e9+named+RealPacket;Runs%3A+Fedora+39+(dual+booted+with+W10);Watches+cat+videos;Goes+outside;Rants+at+code;Contributes+to+whatever+he+wants+to;AI+replaced+his+job)](https://git.io/typing-svg)
+
 
 > [!NOTE]
 > Now using Fedora 40 on a HP Spectre and my main PC!
@@ -8,10 +9,11 @@
 > **I dualboot on my main PC,**
 > **planning to move to Linux at some point**
 
-More info about how I started is [here](./how-i-started.md)
+<!--More info about how I started is [here](./how-i-started.md)-->
 
 ## Stats
 
+[![Codeium profile card](https://codeium.com/profile/realpacket/card.png)](https://codeium.com/profile/realpacket)
 ![stats](https://github-readme-stats.vercel.app/api?username=RealPacket&show_icons=true&theme=radical)
 
 ## Skills
