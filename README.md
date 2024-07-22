@@ -2,6 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&duration=1337&pause=1000&center=true&vCenter=true&random=false&width=900&height=50&lines=Random+online+developer+%239e9+named+RealPacket;Runs%3A+Fedora+39+(dual+booted+with+W10);Watches+cat+videos;Goes+outside;Rants+at+code;Contributes+to+whatever+he+wants+to;AI+replaced+his+job)](https://git.io/typing-svg)
 
+> [!IMPORTANT]
+> Starting Jul 22, at 5:50 PM, I'm trying to migrate some things over to [codeberg](https://codeberg.org/).
+> If this succeeds, I'll probably make all of the repos as a mirror to the codeberg repository for compatibility.
+> Why?: https://giveupgithub.org/
+
 > [!NOTE]
 > Now using Fedora 40 on a HP Spectre and my main PC!
 >
